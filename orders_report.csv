@@ -1,0 +1,2 @@
+order_id,customer_id,customer_name,date,product_id,product_name,quantity,price,total_price
+1,2,hussain,"17/07/2024,22:25:19",1,pizza,1,800.0,800.0
